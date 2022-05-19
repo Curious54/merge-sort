@@ -14,4 +14,5 @@
 [8,11,12,16,21,22]
 
 * Big-O gösterimini yazınız.
+
 Big-O Notation => 2^x = n ise x = o(logn) olur.
